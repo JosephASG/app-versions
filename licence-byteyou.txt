@@ -1,0 +1,21 @@
+BYTEYOU TERMS AND CONDITIONS OF USE
+
+Welcome to Byteyou, an application designed to download YouTube videos. By using this app, you agree to the following terms and conditions. Please read carefully before using the application.
+
+Acceptance of terms
+By downloading and using Byteyou, you agree to all the terms and conditions set forth in this document. If you do not agree to these terms and conditions, please do not use the application.
+
+Software use
+Byteyou is a YouTube video downloader software. The use of this application is limited to downloading videos for personal use. Using Byteyou to download copyrighted content without proper authorization is strictly prohibited.
+
+Responsibility
+Byteyou is not responsible for the inappropriate use of the application. The user is solely responsible for the downloaded content and its use. Likewise, Byteyou is not responsible for any damage that may be caused to your device by the use of the application.
+
+Intellectual Property Rights
+Byteyou is owned by Mashcode Studios La, a company registered in Ecuador. The Byteyou brand, logos, texts and other elements are protected by intellectual property law. Unauthorized copying, distribution, or use of these items is strictly prohibited.
+
+Changes to the terms and conditions
+Byteyou reserves the right to change these terms and conditions at any time without notice. Changes will take effect immediately upon posting.
+
+Governing Law and Jurisdiction
+These terms and conditions are governed by the law of the Republic of Ecuador. Any dispute related to the use of Byteyou will be resolved by the courts of the city of Quito, Ecuador.
